@@ -108,7 +108,7 @@ This dashboard enables the company to:
 
 | Wholesaler Sales Overview | Vendor Movement Overview |
 |---------------------------|---------------------------|
-| ![Chart 1](screenshots/sales_1.png)<br>![Chart 2](screenshots/sales_2.png)<br>![Chart 3](screenshots/sales_3.png) | ![Vendor Dashboard](screenshots/vendor_dashboard.png) |
+| ![Sales Dashboard1](Screenshots/sales_1.png)<br>![Sales Dashboard 2](Screenshots/sales_2.png)<br>![Sales Dashboard 3](Screenshots/sales_3.png) | ![Vendor Dashboard](Screenshots/vendor_dashboard.png) |
 
 ### 🔁 Sankey Diagram – Vendor to Wholesaler Flow
 
