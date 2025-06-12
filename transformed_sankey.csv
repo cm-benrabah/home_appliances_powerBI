@@ -1,0 +1,103 @@
+Source,Target,Quantity Sold
+North,Best Buy Wholesale,30
+South,HomeTech Distributors,50
+East,Global Appliances Inc.,150
+West,Urban Suppliers,40
+North,Best Buy Wholesale,60
+South,HomeTech Distributors,250
+East,Global Appliances Inc.,180
+West,Urban Suppliers,80
+North,Best Buy Wholesale,30
+South,HomeTech Distributors,350
+East,Global Appliances Inc.,20
+West,Urban Suppliers,40
+North,Best Buy Wholesale,50
+South,HomeTech Distributors,150
+East,Global Appliances Inc.,60
+West,Urban Suppliers,100
+North,Best Buy Wholesale,80
+South,HomeTech Distributors,200
+East,Global Appliances Inc.,50
+West,Urban Suppliers,70
+North,Best Buy Wholesale,25
+South,HomeTech Distributors,40
+East,Global Appliances Inc.,100
+West,Urban Suppliers,30
+North,Best Buy Wholesale,70
+West,EcoHome Suppliers,50
+West,EcoHome Suppliers,40
+West,EcoHome Suppliers,15
+West,EcoHome Suppliers,100
+West,EcoHome Suppliers,50
+Best Buy Wholesale,Vendor A,10
+Best Buy Wholesale,Vendor A,15
+Best Buy Wholesale,Vendor A,8
+Best Buy Wholesale,Vendor B,12
+Best Buy Wholesale,Vendor B,25
+Best Buy Wholesale,Vendor B,5
+Best Buy Wholesale,Vendor C,20
+HomeTech Distributors,Vendor E,25
+HomeTech Distributors,Vendor E,50
+HomeTech Distributors,Vendor E,80
+HomeTech Distributors,Vendor F,30
+HomeTech Distributors,Vendor F,40
+HomeTech Distributors,Vendor F,15
+Global Appliances Inc.,Vendor I,40
+Global Appliances Inc.,Vendor I,60
+Global Appliances Inc.,Vendor I,10
+Global Appliances Inc.,Vendor J,15
+Global Appliances Inc.,Vendor J,20
+Global Appliances Inc.,Vendor J,25
+Urban Suppliers,Vendor M,10
+Urban Suppliers,Vendor M,25
+Urban Suppliers,Vendor M,20
+Urban Suppliers,Vendor N,15
+Urban Suppliers,Vendor N,10
+Urban Suppliers,Vendor N,8
+Best Buy Wholesale,Vendor A,8
+Best Buy Wholesale,Vendor A,12
+HomeTech Distributors,Vendor E,18
+HomeTech Distributors,Vendor E,45
+Global Appliances Inc.,Vendor I,35
+Global Appliances Inc.,Vendor I,55
+Urban Suppliers,Vendor M,7
+Urban Suppliers,Vendor M,20
+Best Buy Wholesale,Vendor B,6
+HomeTech Distributors,Vendor F,70
+Global Appliances Inc.,Vendor J,8
+Urban Suppliers,Vendor N,18
+Best Buy Wholesale,Vendor C,10
+HomeTech Distributors,Vendor G,25
+Global Appliances Inc.,Vendor K,12
+Urban Suppliers,Vendor O,10
+Best Buy Wholesale,Vendor D,18
+HomeTech Distributors,Vendor H,30
+Global Appliances Inc.,Vendor L,12
+Urban Suppliers,Vendor P,8
+Best Buy Wholesale,Vendor A,12
+Best Buy Wholesale,Vendor A,33
+Best Buy Wholesale,Vendor A,16
+Best Buy Wholesale,Vendor B,28
+Best Buy Wholesale,Vendor B,37
+Best Buy Wholesale,Vendor B,20
+Best Buy Wholesale,Vendor C,50
+HomeTech Distributors,Vendor E,7
+HomeTech Distributors,Vendor E,155
+HomeTech Distributors,Vendor E,200
+HomeTech Distributors,Vendor F,95
+HomeTech Distributors,Vendor F,130
+Global Appliances Inc.,Vendor J,33
+Global Appliances Inc.,Vendor J,18
+Global Appliances Inc.,Vendor I,75
+Global Appliances Inc.,Vendor I,65
+Global Appliances Inc.,Vendor I,2
+Urban Suppliers,Vendor M,2
+Urban Suppliers,Vendor N,75
+Urban Suppliers,Vendor N,52
+Global Appliances Inc.,Vendor K,35
+Urban Suppliers,Vendor O,35
+Best Buy Wholesale,Vendor C,5
+Global Appliances Inc.,Vendor K,30
+HomeTech Distributors,Vendor F,25
+Global Appliances Inc.,Vendor J,75
+Urban Suppliers,Vendor N,22

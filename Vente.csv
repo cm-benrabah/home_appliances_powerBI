@@ -1,0 +1,31 @@
+Product ID,Product Name,Category,Sub-Category,Quantity Sold,Unit Price (USD),Total Revenue (USD),Date Sold,Wholesaler Name,Region
+101,Smart Refrigerator Pro,Refrigerators,Smart Appliances,30,1500,45000,2024-01-10,Best Buy Wholesale,North
+102,Washer-Dryer Combo,Washing Machines,Energy-Efficient,50,1200,60000,2024-02-05,HomeTech Distributors,South
+103,Compact Microwave,Microwaves,Compact,150,200,30000,2024-03-15,Global Appliances Inc.,East
+104,Dishwasher Elite,Dishwashers,Standard,40,700,28000,2024-04-01,Urban Suppliers,West
+105,Air Conditioner CoolMax,Air Conditioners,Inverter,60,900,54000,2024-05-10,Best Buy Wholesale,North
+106,Blender Supreme,Small Appliances,Blenders,250,50,12500,2024-06-15,HomeTech Distributors,South
+107,Toaster Deluxe,Small Appliances,Toasters,180,40,7200,2024-07-20,Global Appliances Inc.,East
+108,Vacuum Cleaner Power,Vacuums,Robotic,80,300,24000,2024-08-01,Urban Suppliers,West
+109,Water Heater Eco,Water Heaters,Tankless,30,500,15000,2024-09-05,Best Buy Wholesale,North
+110,Electric Kettle QuickBoil,Small Appliances,Kettles,350,30,10500,2024-10-10,HomeTech Distributors,South
+111,Smart Oven Pro,Ovens,Smart Appliances,20,1000,20000,2024-11-15,Global Appliances Inc.,East
+112,Freezer Ultra,Refrigerators,Deep Freeze,40,900,36000,2024-12-01,Urban Suppliers,West
+113,Dryer Max,Washing Machines,Energy-Efficient,50,600,30000,2024-01-25,Best Buy Wholesale,North
+114,Coffee Maker Elite,Small Appliances,Coffee Makers,150,80,12000,2024-02-10,HomeTech Distributors,South
+115,Dehumidifier DryAir,Air Conditioners,Portable,60,250,15000,2024-03-25,Global Appliances Inc.,East
+116,Food Processor Master,Small Appliances,Food Processors,100,120,12000,2024-04-10,Urban Suppliers,West
+117,Induction Cooktop,Small Appliances,Cooktops,80,200,16000,2024-05-20,Best Buy Wholesale,North
+118,Steam Iron Pro,Small Appliances,Irons,200,35,7000,2024-06-05,HomeTech Distributors,South
+119,Water Purifier PureFlow,Water Heaters,Under-Sink,50,300,15000,2024-07-10,Global Appliances Inc.,East
+120,Electric Grill Gourmet,Small Appliances,Grills,70,150,10500,2024-08-15,Urban Suppliers,West
+121,Smart Fridge Family,Refrigerators,Smart Appliances,25,1600,40000,2024-09-01,Best Buy Wholesale,North
+122,Washer Pro+,Washing Machines,Heavy-Duty,40,1300,52000,2024-10-05,HomeTech Distributors,South
+123,Microwave Grill Combo,Microwaves,Grill,100,250,25000,2024-11-10,Global Appliances Inc.,East
+124,Dishwasher Slim,Dishwashers,Compact,30,750,22500,2024-12-15,Urban Suppliers,West
+125,AC Window Unit,Air Conditioners,Window,70,400,28000,2024-01-05,Best Buy Wholesale,North
+131,Air Purifier Elite,Air Conditioners,Smart Appliances,50,450,22500,2024-06-10,EcoHome Suppliers,West
+132,Water Heater Eco Plus,Water Heaters,Tankless,40,550,22000,2024-07-15,EcoHome Suppliers,West
+133,Smart Oven Pro,Ovens,Smart Appliances,15,1000,15000,2024-08-20,EcoHome Suppliers,West
+134,Toaster Deluxe,Small Appliances,Toasters,100,40,4000,2024-09-25,EcoHome Suppliers,West
+135,Induction Cooktop,Small Appliances,Cooktops,50,200,10000,2024-10-30,EcoHome Suppliers,West

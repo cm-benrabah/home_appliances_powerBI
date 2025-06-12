@@ -1,0 +1,73 @@
+Wholesaler Name,Vendor Name,Product ID,Product Name,Quantity Sold to Vendor,Unit Price (USD),Total Revenue (USD),Date Sold to Vendor,Vendor Region
+Best Buy Wholesale,Vendor A,101,Smart Refrigerator Pro,10,1650,16500,2024-01-25,North
+Best Buy Wholesale,Vendor A,105,Air Conditioner CoolMax,15,950,14250,2024-02-05,North
+Best Buy Wholesale,Vendor A,109,Water Heater Eco,8,550,4400,2024-03-12,North
+Best Buy Wholesale,Vendor B,113,Dryer Max,12,650,7800,2024-04-18,North
+Best Buy Wholesale,Vendor B,117,Induction Cooktop,25,220,5500,2024-05-22,North
+Best Buy Wholesale,Vendor B,121,Smart Fridge Family,5,1700,8500,2024-06-05,North
+Best Buy Wholesale,Vendor C,125,AC Window Unit,20,420,8400,2024-07-10,North
+HomeTech Distributors,Vendor E,102,Washer-Dryer Combo,25,1350,33750,2024-01-20,South
+HomeTech Distributors,Vendor E,106,Blender Supreme,50,60,3000,2024-02-10,South
+HomeTech Distributors,Vendor E,110,Electric Kettle QuickBoil,80,35,2800,2024-03-15,South
+HomeTech Distributors,Vendor F,114,Coffee Maker Elite,30,90,2700,2024-04-05,South
+HomeTech Distributors,Vendor F,118,Steam Iron Pro,40,40,1600,2024-05-20,South
+HomeTech Distributors,Vendor F,122,Washer Pro+,15,1400,21000,2024-06-25,South
+Global Appliances Inc.,Vendor I,103,Compact Microwave,40,250,10000,2024-02-05,East
+Global Appliances Inc.,Vendor I,107,Toaster Deluxe,60,45,2700,2024-03-12,East
+Global Appliances Inc.,Vendor I,111,Smart Oven Pro,10,1050,10500,2024-04-18,East
+Global Appliances Inc.,Vendor J,115,Dehumidifier DryAir,15,270,4050,2024-05-25,East
+Global Appliances Inc.,Vendor J,119,Water Purifier PureFlow,20,320,6400,2024-06-30,East
+Global Appliances Inc.,Vendor J,123,Microwave Grill Combo,25,270,6750,2024-07-10,East
+Urban Suppliers,Vendor M,104,Dishwasher Elite,10,750,7500,2024-03-25,West
+Urban Suppliers,Vendor M,108,Vacuum Cleaner Power,25,320,8000,2024-04-30,West
+Urban Suppliers,Vendor M,112,Freezer Ultra,20,950,19000,2024-05-05,West
+Urban Suppliers,Vendor N,116,Food Processor Master,15,130,1950,2024-06-10,West
+Urban Suppliers,Vendor N,120,Electric Grill Gourmet,10,160,1600,2024-07-15,West
+Urban Suppliers,Vendor N,124,Dishwasher Slim,8,800,6400,2024-08-25,West
+Best Buy Wholesale,Vendor A,101,Smart Refrigerator Pro,8,1650,13200,2024-11-05,North
+Best Buy Wholesale,Vendor A,105,Air Conditioner CoolMax,12,950,11400,2024-12-10,North
+HomeTech Distributors,Vendor E,102,Washer-Dryer Combo,18,1350,24300,2024-11-15,South
+HomeTech Distributors,Vendor E,106,Blender Supreme,45,60,2700,2024-12-20,South
+Global Appliances Inc.,Vendor I,103,Compact Microwave,35,250,8750,2024-11-25,East
+Global Appliances Inc.,Vendor I,107,Toaster Deluxe,55,45,2475,2024-12-30,East
+Urban Suppliers,Vendor M,104,Dishwasher Elite,7,750,5250,2024-11-30,West
+Urban Suppliers,Vendor M,108,Vacuum Cleaner Power,20,320,6400,2024-12-05,West
+Best Buy Wholesale,Vendor B,109,Water Heater Eco,6,550,3300,2024-12-15,North
+HomeTech Distributors,Vendor F,110,Electric Kettle QuickBoil,70,35,2450,2024-12-20,South
+Global Appliances Inc.,Vendor J,111,Smart Oven Pro,8,1050,8400,2024-12-25,East
+Urban Suppliers,Vendor N,112,Freezer Ultra,18,950,17100,2024-12-28,West
+Best Buy Wholesale,Vendor C,113,Dryer Max,10,650,6500,2024-12-29,North
+HomeTech Distributors,Vendor G,114,Coffee Maker Elite,25,90,2250,2024-12-30,South
+Global Appliances Inc.,Vendor K,115,Dehumidifier DryAir,12,270,3240,2024-12-31,East
+Urban Suppliers,Vendor O,116,Food Processor Master,10,130,1300,2024-12-31,West
+Best Buy Wholesale,Vendor D,117,Induction Cooktop,18,220,3960,2024-12-31,North
+HomeTech Distributors,Vendor H,118,Steam Iron Pro,30,40,1200,2024-12-31,South
+Global Appliances Inc.,Vendor L,119,Water Purifier PureFlow,12,320,3840,2024-12-31,East
+Urban Suppliers,Vendor P,120,Electric Grill Gourmet,8,160,1280,2024-12-31,West
+Best Buy Wholesale,Vendor A,101,Smart Refrigerator Pro,12,1650,19800,2024-12-31,North
+Best Buy Wholesale,Vendor A,105,Air Conditioner CoolMax,33,950,31350,2024-12-31,North
+Best Buy Wholesale,Vendor A,109,Water Heater Eco,16,550,8800,2024-12-31,North
+Best Buy Wholesale,Vendor B,113,Dryer Max,28,650,18200,2024-12-31,North
+Best Buy Wholesale,Vendor B,117,Induction Cooktop,37,220,8140,2024-12-31,North
+Best Buy Wholesale,Vendor B,121,Smart Fridge Family,20,1700,34000,2024-12-31,North
+Best Buy Wholesale,Vendor C,125,AC Window Unit,50,420,21000,2024-12-31,North
+HomeTech Distributors,Vendor E,102,Washer-Dryer Combo,7,1350,9450,2024-12-31,South
+HomeTech Distributors,Vendor E,106,Blender Supreme,155,60,9300,2024-12-31,South
+HomeTech Distributors,Vendor E,110,Electric Kettle QuickBoil,200,35,7000,2024-12-31,South
+HomeTech Distributors,Vendor F,114,Coffee Maker Elite,95,90,8550,2024-12-31,South
+HomeTech Distributors,Vendor F,118,Steam Iron Pro,130,40,5200,2024-12-31,South
+Global Appliances Inc.,Vendor J,115,Dehumidifier DryAir,33,270,8910,2024-12-31,East
+Global Appliances Inc.,Vendor J,119,Water Purifier PureFlow,18,320,5760,2024-12-31,East
+Global Appliances Inc.,Vendor I,103,Compact Microwave,75,250,18750,2024-12-31,East
+Global Appliances Inc.,Vendor I,107,Toaster Deluxe,65,45,2925,2024-12-31,East
+Global Appliances Inc.,Vendor I,111,Smart Oven Pro,2,1050,2100,2024-12-31,East
+Urban Suppliers,Vendor M,112,Freezer Ultra,2,950,1900,2024-12-31,West
+Urban Suppliers,Vendor N,116,Food Processor Master,75,130,9750,2024-12-31,West
+Urban Suppliers,Vendor N,120,Electric Grill Gourmet,52,160,8320,2024-12-31,West
+Global Appliances Inc.,Vendor K,131,Air Purifier Elite,35,480,16800,2024-12-31,East
+Urban Suppliers,Vendor O,132,Water Heater Eco Plus,35,600,21000,2024-12-31,West
+Best Buy Wholesale,Vendor C,133,Smart Oven Pro,5,1100,5500,2024-12-31,North
+Global Appliances Inc.,Vendor K,135,Induction Cooktop,30,230,6900,2024-12-31,East
+HomeTech Distributors,Vendor F,122,Washer Pro+,25,1400,35000,2024-12-31,South
+Global Appliances Inc.,Vendor J,123,Microwave Grill Combo,75,270,20250,2024-12-31,East
+Urban Suppliers,Vendor N,124,Dishwasher Slim,22,800,17600,2024-12-31,West
