@@ -108,13 +108,12 @@ This dashboard enables the company to:
 
 | Wholesaler Sales Overview | Vendor Movement Overview |
 |---------------------------|---------------------------|
-| ![Sales Dashboard](screenshots/sales_dashboard.png) | ![Vendor Dashboard](screenshots/vendor_dashboard.png) |
+| ![Sales Dashboard](Screenshots/sales_dashboard.png) | ![Vendor Dashboard](Screenshots/vendor_dashboard.png) |
 
 ### 🔁 Sankey Diagram – Vendor to Wholesaler Flow
 
-![Sankey Diagram](screenshots/sankey_flow.png)
+![Sankey Diagram](Screenshots/sankey_flow.png)
 
-> 📌 *Place your screenshots inside a folder named `screenshots` in the root directory of your project.*
 
 ---
 
